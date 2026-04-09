@@ -1,6 +1,6 @@
 # Multivariate Analysis of Battery Failure
 
-Este repositório apresenta uma aplicação de **Análise Estatística Multivariada** para modelar o tempo de vida de baterias de prata-zinco, com base em variáveis operacionais.
+Este repositório apresenta uma aplicação de **Análise Estatística Multivariada** para modelar o tempo de vida de baterias de prata-zinco, com base em variáveis operacionais, a qual a foi a proposta de trabalho final da disciplina _Análise Estatística Multivariada_ realizada durante minha graduação na UFRJ.
 
 ## Problema
 
